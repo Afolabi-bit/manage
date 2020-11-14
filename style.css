@@ -123,6 +123,10 @@ header.header {
   display: none;
 }
 
+.navbar {
+  display: none;
+}
+
 .overlay {
   display: none;
 }
@@ -695,6 +699,10 @@ form label {
   .header .links,
   .header button {
     display: none;
+  }
+
+  .nav-btn {
+    display: block;
   }
 
   #menu,
